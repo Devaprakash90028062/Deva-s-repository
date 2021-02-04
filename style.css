@@ -1,0 +1,48 @@
+h1 {
+    font-size: 30;
+    color: orange;
+    font-family: cursive;
+}
+img {
+    border-radius: 50%;
+    width: 200;
+    margin-bottom: 50;
+}
+body {
+    background-color: #d15492;
+    text-align: center;
+}
+p {
+    font-size: 20;
+    color: burlywood;
+    margin: auto;
+    font-family: bourbon grotesque;
+}
+.text {
+    font-size: 20;
+    color: burlywood;
+    margin: auto;
+    font-family: bourbon grotesque;
+}
+.menu {
+    list-style: none;   
+    font-family: cursive;
+    position: fixed;
+    z-index: 10;
+    top: 10px;
+    right: 30px;
+    color: chartreuse;
+}
+.links {
+    float: right;
+    color: darkgray;
+    padding-top: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    padding-bottom: 5px;
+    font-family: cooper black;
+    font-size: 25px;
+}
+.links:hover {
+    background-color: red;
+}
